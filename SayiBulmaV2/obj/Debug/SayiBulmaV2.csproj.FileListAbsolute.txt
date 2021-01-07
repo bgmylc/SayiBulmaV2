@@ -1,0 +1,7 @@
+C:\Users\LENOVO\source\repos\SayiBulmaV2\SayiBulmaV2\bin\Debug\SayiBulmaV2.exe.config
+C:\Users\LENOVO\source\repos\SayiBulmaV2\SayiBulmaV2\bin\Debug\SayiBulmaV2.exe
+C:\Users\LENOVO\source\repos\SayiBulmaV2\SayiBulmaV2\bin\Debug\SayiBulmaV2.pdb
+C:\Users\LENOVO\source\repos\SayiBulmaV2\SayiBulmaV2\obj\Debug\SayiBulmaV2.csprojAssemblyReference.cache
+C:\Users\LENOVO\source\repos\SayiBulmaV2\SayiBulmaV2\obj\Debug\SayiBulmaV2.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\source\repos\SayiBulmaV2\SayiBulmaV2\obj\Debug\SayiBulmaV2.exe
+C:\Users\LENOVO\source\repos\SayiBulmaV2\SayiBulmaV2\obj\Debug\SayiBulmaV2.pdb
